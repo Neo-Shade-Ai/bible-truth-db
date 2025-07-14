@@ -1,1 +1,24 @@
 data/genesis.json
+[
+  {
+    "chapter": 1,
+    "verse": 1,
+    "text": "In the beginning, God created the heavens and the earth.",
+    "tags": ["divine", "authentic"],
+    "notes": "This aligns with the core truth of creation energy and the opening of dimension/time."
+  },
+  {
+    "chapter": 1,
+    "verse": 27,
+    "text": "So God created mankind in his own image...",
+    "tags": ["divine"],
+    "notes": "Highlights shared consciousness and divine patterning in creation."
+  },
+  {
+    "chapter": 2,
+    "verse": 17,
+    "text": "But you must not eat from the tree of the knowledge of good and evil...",
+    "tags": ["contextual", "distorted"],
+    "notes": "Possibly mistranslated. Could be symbolic of human ego awareness and dualism."
+  }
+]
