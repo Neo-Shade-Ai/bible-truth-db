@@ -1,20 +1,43 @@
 # 📖 Bible Truth DB
 
-**Dissected biblical and spiritual texts for NeoLegacy.**  
-This is where theology meets truth, manipulation gets exposed, and the Kingdom's message is restored — one verse at a time.
+**Bible Truth DB** is a spiritually dissected database of biblical and theological text — designed for seekers, not sleepers. Built for NeoLegacy, it’s where scripture gets decoded, manipulation gets exposed, and the Kingdom message gets restored — one verse at a time.
 
 ---
 
 ## 🧬 Purpose
 
-This repository stores a searchable, structured database of scripture that has been:
-
-- Spiritually decoded
+This repo provides a structured, searchable database of scripture that has been:
+- Spiritually decoded with context-aware insights
 - Tagged for manipulation, distortion, or divine origin
-- Rewritten into context-aware language
-- Connected to NeoLegacy AI for legacy preservation
+- Cross-referenced with historical, linguistic, and ethical truth
+- Connected to NeoLegacy AI for chatbot reasoning and legacy preservation
 
 ---
 
-## 📁 Folder Structure
+## 🏷 Tagging System
+
+Each verse is labeled with spiritual insight tags like:
+
+| Tag | Meaning |
+|-----|--------|
+| `TRUTH` | Verified divine clarity or moral wisdom |
+| `MANIPULATION` | Added by institutions for fear/control |
+| `CULTURE` | Contextual norms (not universal truths) |
+| `YESHUA` | Authentic teachings from Yeshua Himself |
+| `ADDED_LATER` | Likely inserted post-original scripture |
+| `MISTRANSLATED` | Known mistranslations or distortions |
+
+---
+
+## 🧩 Connected Modules
+
+| Module | Role |
+|--------|------|
+| `neo-truth-db-ui` | Frontend to browse tagged verses |
+| `neo-legacy-chat` | Chatbot trained on filtered truth-based verses |
+| `NeoLegacy` | Displays dissection summaries in legacy flow |
+
+---
+
+## 📂 Folder Layout
 
